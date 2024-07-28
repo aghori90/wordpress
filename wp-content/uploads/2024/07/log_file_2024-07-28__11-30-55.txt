@@ -1,0 +1,84 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:81/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/07/content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/07/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2024/07/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Primary Widgets Area : 
+
+Ascendoor Grid Posts Widget - Economy - Imported
+Ascendoor Grid List Posts Widget - Travel &amp; Food - Imported
+Ascendoor Two Column Posts Widget - No Title - Imported
+Ascendoor List Posts Widget - Random News - Imported
+
+Secondary Widgets Area : 
+
+Ascendoor Author Info Widget - Author Info - Imported
+Ascendoor Posts Carousel Widget - No Title - Imported
+Block - No Title - Imported
+Ascendoor List Posts Thumbnail Widget - Trending News - Imported
+
+Above Footer Widgets Area : 
+
+Ascendoor Posts Carousel Widget - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget 2 : 
+
+Ascendoor List Posts Thumbnail Widget - Trending News - Imported
+
+Footer Widget 3 : 
+
+Ascendoor Grid Posts Widget - Recent Post - Imported
+
+Footer Widget 4 : 
+
+Ascendoor Social Icons - Contact Us - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

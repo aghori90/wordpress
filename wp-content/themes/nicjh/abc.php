@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
 }
 ?>
 
-    <!-- <h1>Feedback Form</h1>
+    <h1>Feedback Form</h1>
     <form method="post" action="">
         <label for="name">Name:</label><br>
         <input type="text" id="name" name="name" required><br><br>
@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['submit'])) {
         <label for="message">Message:</label><br>
         <textarea id="message" name="message" required></textarea><br><br>
         <input type="submit" name="submit" value="Submit">
-    </form> -->
+    </form>
 
 <?php
 get_footer();

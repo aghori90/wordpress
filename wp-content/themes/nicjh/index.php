@@ -1,3 +1,4 @@
+
 <?php
 get_header();
 ?>
@@ -27,6 +28,7 @@ get_header();
                   <div class="minister-box clearfix">
                      <div class="minister-sub1 d-flex flex-wrap align-content-center">
                      <div class="minister-image"><img src="<?php echo get_template_directory_uri(); ?>/theme/images/Screenshot_27.png" alt="central minister" title="Hon’ble Minister"></div>
+                     
                         <div class="min-info">
                            <h4>Hon’ble Minister</h4>
                            <h3>Minister Name</h3>
@@ -34,7 +36,9 @@ get_header();
                      </div>
                   </div>
                </div>
+               
                <div class="left-block">
+                  
                   <h2><em>Welcome to </em><span>Ministry/Department</span></h2>
                   <p>An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves. An informative text section that outlines the work portfolio of the ministry and the initiatives/ schemes and other useful purpose that the ministry website serves.
                   </p>
@@ -44,7 +48,7 @@ get_header();
                </div>
             </div>
          </div>
-         <div class="wrapper home-banner">
+         <!-- <div class="wrapper home-banner">
             <div class="container common-container four_content banner-container">
                <div class="left-block">
                   <div class="left-col-2">                    
@@ -111,7 +115,7 @@ get_header();
                   </div>
                </div>
             </div>
-         </div>
+         </div> -->
          <div class="wrapper home-banner tab-section">
             <div class="container common-container four_content">
                <div class="page-tab clearfix">
@@ -151,7 +155,7 @@ foreach ($categories as $c) { ?>
                      </div>
                   </div>
                </div>
-               <div class="side-links clearfix">
+               <!-- <div class="side-links clearfix">
                   <ul class="content_list date-list">
                      <li>
                         <a href="#" title="External link that opens in new tab">
@@ -183,7 +187,7 @@ foreach ($categories as $c) { ?>
                   </ul>
                </div>
             </div>
-         </div>
+         </div> -->
          <!-- <div class="wrapper home-btm-slider">
             <div class="container common-container four_content gallery-container">
                <div class="gallery-area clearfix">
